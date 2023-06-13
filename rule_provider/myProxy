@@ -2,3 +2,4 @@ payload:
   # > myProxy
   - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,production.cloudflare.docker.com
