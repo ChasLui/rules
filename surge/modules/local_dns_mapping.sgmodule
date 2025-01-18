@@ -383,7 +383,6 @@ baomitu.com = server:https://doh.360.cn/dns-query
 *.baomitu.com = server:https://doh.360.cn/dns-query
 qiku.com = server:https://doh.360.cn/dns-query
 *.qiku.com = server:https://doh.360.cn/dns-query
-*.youtube.com = server:https://dns.google/dns-query
 securelogin.com.cn = server:system
 *.securelogin.com.cn = server:system
 captive.apple.com = server:system
