@@ -1,0 +1,5 @@
+payload:
+  # > 下载节点，大文件存储，使用低倍率节点
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+  
