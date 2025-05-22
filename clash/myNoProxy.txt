@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,beemwk.com
 DOMAIN-SUFFIX,beemwork.com
 DOMAIN-SUFFIX,beemchat.com
 DOMAIN-SUFFIX,larkenterprise.com
+DOMAIN-SUFFIX,juejin.cn
